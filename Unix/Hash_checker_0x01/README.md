@@ -56,10 +56,10 @@ the second loop.
 
 It can be written out as:
 
-$\sum^5_{n=0}(i_n \times x_n)$ mod 0x3b9aca09
+$\sum^5_{n=0}(i_n \times x_n) mod 0x3b9aca09$
 
-Where the $i_n$ is the n$_{th}$ element of the inputted argument and $x_n$ is the
-$n_th$ element of the magic array.
+Where the $i_n$ is the n $_{th}$ element of the inputted argument and $x_n$ is the
+$n_{th}$ element of the magic array.
 
 # Solution
 I wrote a python script that brute forces every possible key. This has O(n)
